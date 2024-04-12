@@ -1,0 +1,33 @@
+h1{
+    color: #434343;
+}
+/* span{
+    color: #434343;
+} */
+
+.date{
+    color: #707070;
+    font-size: small;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+p{
+    /* 设置首行缩进 */
+    text-indent: 35px;
+
+    /* 设置行高 */
+    line-height: 30px;
+}
+
+#plast{
+    /* 靠右对齐 */
+    text-align: right;
+}
+
+#center{
+    width: 65%;
+}

@@ -1,0 +1,20 @@
+h1{
+    color: #434343;
+}
+/* span{
+    color: #434343;
+} */
+
+.date{
+    color: #707070;
+    font-size: small;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+p{
+    text-indent: 35px;
+}
